@@ -1,0 +1,16 @@
+[
+  {
+    "sex": "male",
+    "ses": "low",
+    "Diagnosed < 3 years": 32.7,
+    "Diagnosed between 3-5 years": 62.2,
+    "Diagnosed > 5 years": 5.1
+  },
+  {
+    "sex": "female",
+    "ses": "low",
+    "Diagnosed < 3 years": 22.4,
+    "Diagnosed between 3-5 years": 35.6,
+    "Diagnosed > 5 years": 42
+  }
+]
