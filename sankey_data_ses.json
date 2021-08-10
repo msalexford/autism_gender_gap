@@ -1,0 +1,16 @@
+[
+  {
+    "sex": "male",
+    "ses": "low",
+    "pct_age1": 32.7,
+    "pct_age2": 62.2,
+    "pct_age3": 5.1
+  },
+  {
+    "sex": "female",
+    "ses": "low",
+    "pct_age1": 22.4,
+    "pct_age2": 35.6,
+    "pct_age3": 42
+  }
+]
